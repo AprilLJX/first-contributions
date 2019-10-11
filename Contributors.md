@@ -6,6 +6,7 @@
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto)
 - [Jordan Villanueva](https://github.com/joyous30)
+- [Jiaxin Liu](https://github.com/AprilLJX)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
